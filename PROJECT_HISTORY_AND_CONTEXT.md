@@ -158,10 +158,12 @@ Current crossings include:
 
 - NE 45th Street
 - NE 50th Street
-- NE 52nd Street
-- Additional local connections
+- Additional local connections at NE 40th and NE 65th. 
 
 Although these crossings provide access, they do not fully eliminate the psychological and physical effects of the freeway.
+
+- Pedestrian crossings at NE 45th and NE 50th are limited to narrow sidewalks
+- Designate bicycle lanes cross the freeway at the Burke-Gilman Trail and Ravenna Blvd., 1.25 miles apart.
 
 ---
 
