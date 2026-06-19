@@ -37,7 +37,9 @@ The project can therefore be understood as part of a broader effort to repair, r
 
 Before European settlement, the area was home to Coast Salish peoples, including the ancestors of the Duwamish and related communities.
 
-Travel routes followed topography, waterways, ridges, and natural gathering places. I-5 is often described as a barrier; the Indigenous landscape was organized around connections. The areas now called Wallingford, the University District, Ravenna, and Green Lake were all part of a highly interconnected network of trails, waterways, fishing grounds, and seasonal gathering places.
+Travel routes followed topography, waterways, ridges, and natural gathering places.  
+
+I-5 is often described as a barrier; the Indigenous landscape was organized around connections. The areas now called Wallingford, the University District, Ravenna, and Green Lake were all part of a highly interconnected network of trails, waterways, fishing grounds, and seasonal gathering places.
 
 
 ---
