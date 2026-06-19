@@ -207,8 +207,8 @@ These include:
 ### Environmental
 
 - Noise (measured noise levels can approach 80 dB)
-- Air pollution
-- Heat
+- Air pollution. Including Ultra-fine particles and NOx, from 2x to 25x higher near roadways. 
+- Heat. Urban heat islands can render temperatures 5F to 12 F higher compared to residential areas with tree canopies. 
 
 ### Social
 
