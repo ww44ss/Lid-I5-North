@@ -21,13 +21,11 @@ The document is intended to provide context for project participants, elected of
 
 # Executive Summary
 
-Interstate 5 is one of the most important transportation corridors in the Pacific Northwest.
-
-It is also one of the most significant physical barriers within Seattle.
+Interstate 5 is one of the most important transportation corridors in the Pacific Northwest; it is also one of the most significant physical barriers within Seattle.
 
 Constructed during the mid-twentieth century, I-5 improved regional mobility but permanently altered the physical and social structure of numerous neighborhoods.
 
-The Wallingford and University District communities remain connected by a series of bridges and crossings, yet the freeway continues to function as a substantial divide.
+The Wallingford and University District communities remain connected by a set of bridges and crossings, yet the freeway continues to function as a substantial divide between them, impacting the environment, solcial connection, and business opportunity. 
 
 The Lid I-5 North concept emerges from a growing recognition that urban transportation infrastructure should be evaluated not only by its ability to move vehicles, but also by its ability to move people en masse, its effect on communities and public space, concerns for environmental quality, business development opportunity, and neighborhood cohesion.
 
