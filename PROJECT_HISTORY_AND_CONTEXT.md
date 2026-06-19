@@ -23,13 +23,11 @@ The document is intended to provide context for project participants, elected of
 
 Interstate 5 is one of the most important transportation corridors in the Pacific Northwest; it is also one of the most significant physical barriers within Seattle.
 
-Constructed during the mid-twentieth century, I-5 improved regional mobility but permanently altered the physical and social structure of numerous neighborhoods.
+Constructed during the mid-twentieth century, I-5 improved regional mobility but permanently altered the physical and social structure of numerous neighborhoods, including Wallingford and the U-District. While the communities remain connected by a set of bridges and crossings, yet the freeway continues to function as a substantial divide between them, impacting the environment, social connection, and business opportunity. 
 
-The Wallingford and University District communities remain connected by a set of bridges and crossings, yet the freeway continues to function as a substantial divide between them, impacting the environment, solcial connection, and business opportunity. 
+The **Lid I-5 North** concept emerges from a growing recognition that urban transportation infrastructure should be evaluated not only by its ability to move vehicle over large distances at relatively high speeds, but also by its ability to move people en masse, its effect on local communities and public space, its impact on environmental quality, and its impact onn social and neighborhood cohesion.
 
-The Lid I-5 North concept emerges from a growing recognition that urban transportation infrastructure should be evaluated not only by its ability to move vehicles, but also by its ability to move people en masse, its effect on communities and public space, concerns for environmental quality, business development opportunity, and neighborhood cohesion.
-
-The project can therefore be understood as part of a broader effort to repair, reconnect, and reimagine urban spaces shaped by twentieth-century transportation decisions.
+The project can therefore be understood as part of a broader effort to repair, reconnect, and reimagine urban spaces shaped by twentieth-century transportation decisions along with other projects in the Seattle area, including downtown, Southpark, adn Roanoke. 
 
 ---
 
@@ -39,9 +37,8 @@ The project can therefore be understood as part of a broader effort to repair, r
 
 Before European settlement, the area was home to Coast Salish peoples, including the ancestors of the Duwamish and related communities.
 
-Travel routes followed topography, waterways, ridges, and natural gathering places.
+Travel routes followed topography, waterways, ridges, and natural gathering places. I-5 is often described as a barrier; the Indigenous landscape was organized around connections. The areas now called Wallingford, the University District, Ravenna, and Green Lake were all part of a highly interconnected network of trails, waterways, fishing grounds, and seasonal gathering places.
 
-Connections between areas now known as Wallingford, the University District, Green Lake, and Portage Bay were shaped by the landscape rather than large-scale engineered barriers.
 
 ---
 
@@ -49,9 +46,13 @@ Connections between areas now known as Wallingford, the University District, Gre
 
 During the late nineteenth and early twentieth centuries:
 
-- Streetcar lines connected neighborhoods.
-- Development followed walkable commercial corridors.
-- Residential districts expanded outward from downtown.
+- Streetcar lines connected neighborhoods. The Seattle Municipal Railway connect downtown to the U-Distric. Wallingfrod had multiple lines include N45th Street and Stone Way. 
+- Development followed walkable commercial corridors and street car lines. NE 45th Street was probably the most important east-west commercial street north of downtown with commercial clusters around:
+    * Wallingford Avenue N
+    * Stone Way N
+    * Latona Avenue NE
+    * University Way NE
+- Residential districts expanded outward from downtown, notably in the U-District, Latona, Fremont, and Wallingford.
 - Connections between neighborhoods were relatively continuous if, in places, disjointed.
 
 Neighborhood identity emerged from:
