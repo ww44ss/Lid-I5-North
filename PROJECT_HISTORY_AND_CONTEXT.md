@@ -212,9 +212,10 @@ These include:
 
 ### Social
 
-- Neighborhood fragmentation resulting in higher crime.
-- Reduced walkability
-- Reduced social interaction
+- Neighborhood fragmentation. A freeway acts as a barrier; even when crossings exist, people perceive the neighborhoods on opposite sides as separate places. 
+- Reduced walkability. Urban design literature consistently finds that connected street networks perform better than disconnected networks.
+- Reduced social interaction. communities with stronger civic participation tend to experience, lower crime, better health, and stronger long-term economic outcomes. 
+- Crime. Many people misunderstand this. Freeways do not directly cause crime, but they weaked the social interactions that suppress it. 
 
 
 ### Visual
@@ -225,6 +226,7 @@ These include:
 
 - Restricted customer base for local business
 - Blighted property near the freeway
+
 
 ---
 
