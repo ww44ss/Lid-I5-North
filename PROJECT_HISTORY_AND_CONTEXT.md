@@ -29,7 +29,7 @@ Constructed during the mid-twentieth century, I-5 improved regional mobility but
 
 The Wallingford and University District communities remain connected by a series of bridges and crossings, yet the freeway continues to function as a substantial divide.
 
-The Lid I-5 North concept emerges from a growing recognition that urban transportation infrastructure should be evaluated not only by its ability to move vehicles, but also by its effects on communities, public space, environmental quality, and neighborhood cohesion.
+The Lid I-5 North concept emerges from a growing recognition that urban transportation infrastructure should be evaluated not only by its ability to move vehicles, but also by its ability to move people en masse, its effect on communities and public space, concerns for environmental quality, business development opportunity, and neighborhood cohesion.
 
 The project can therefore be understood as part of a broader effort to repair, reconnect, and reimagine urban spaces shaped by twentieth-century transportation decisions.
 
@@ -54,13 +54,13 @@ During the late nineteenth and early twentieth centuries:
 - Streetcar lines connected neighborhoods.
 - Development followed walkable commercial corridors.
 - Residential districts expanded outward from downtown.
-- Connections between neighborhoods were relatively continuous.
+- Connections between neighborhoods were relatively continuous if, in places, disjointed.
 
 Neighborhood identity emerged from:
 
 - Schools
 - Churches
-- Local businesses
+- Local business centers
 - Parks
 - Streetcar routes
 
@@ -70,9 +70,9 @@ Neighborhood identity emerged from:
 
 ## National Context
 
-Following World War II, federal policy strongly favored automobile transportation.
+Following World War II, federal policy strongly favored automobile transportation over all other forms. Street car and trolley lines were abondoned in favor or road construction an automobile passage.
 
-The Federal-Aid Highway Act of 1956 launched the Interstate Highway System.
+The Federal-Aid Highway Act of 1956, under the Eisenhower Adminstration, launched the Interstate Highway System.
 
 Cities throughout the United States were encouraged to construct high-capacity urban freeways.
 
@@ -110,27 +110,28 @@ Far less attention was paid to:
 
 Construction of I-5 required:
 
-- Large-scale excavation
-- Property acquisition
-- Street modifications
-- Utility relocation
+- Large-scale excavation of the land and hillsides to accomodate constraints imposed by Seattle's unique geography, 
+- Property acquisition necessitated by urban development standing in the path of the freeways.
+- Street modification disturting the once continuous street grids between neighborhoods.  
+- Utility relocation.
 
-The resulting corridor created a linear trench through portions of Seattle.
+The resulting corridor created a linear trench through Seattle, dividing in in half with a river of traffic, with few ways to cross. 
 
 ---
 
 ## Immediate Effects
 
-The freeway improved regional travel.
+The freeway immeidately improved regional travel. With the opening of the Ship Canal Bridge, transi times between downtown Seattle and norther suburbs were reduced by 30-60%.
 
 At the same time it introduced:
 
-- Noise
-- Visual disruption
-- Air pollution
-- Physical separation
+- Noise.
+- Visual disruption.
+- Air pollution.
+- Physical separation between communities.
+- Tree canopy removal. 
 
-Many traditional neighborhood connections became more difficult or less attractive.
+Many traditional neighborhood connections became more difficult or less attractive. Some neighborhoods were entirely destroyed.
 
 ---
 
@@ -145,10 +146,11 @@ Wallingford and the University District developed as neighboring communities con
 - Employment
 - Recreation
 - Social relationships
+- Street grid amenable to cars, pedestrians, and other forms of transport.
 
-The neighborhoods remain geographically close.
+The neighborhoods remain geographically close, separated by less than 100 yards. 
 
-Yet the freeway introduces a substantial barrier between them.
+Yet the freeway introduces a substantial barrier between them with only scant crossings desgined primarily for automobiles.
 
 ---
 
@@ -163,7 +165,7 @@ Current crossings include:
 Although these crossings provide access, they do not fully eliminate the psychological and physical effects of the freeway.
 
 - Pedestrian crossings at NE 45th and NE 50th are limited to narrow sidewalks
-- Designate bicycle lanes cross the freeway at the Burke-Gilman Trail and Ravenna Blvd., 1.25 miles apart.
+- Designate bicycle lanes cross the freeway at the Burke-Gilman Trail and Ravenna Blvd., over a mile apart. Crossing by bicycle at NE 45th and NE 50th streets is unsafe. 
 
 ---
 
@@ -171,8 +173,8 @@ Although these crossings provide access, they do not fully eliminate the psychol
 
 Many residents describe the freeway as:
 
-- A dividing line
-- A barrier
+- A dividing line between neighborhoods
+- A barrier ending in many dead-end streets.
 - An unpleasant crossing experience
 
 The result is often reduced interaction between adjacent neighborhoods.
@@ -192,7 +194,7 @@ These include:
 - Economic activity
 - Regional connectivity
 
-The freeway remains essential infrastructure.
+The freeway remains essential infrastructure for the larger city.
 
 ---
 
@@ -204,19 +206,25 @@ These include:
 
 ### Environmental
 
-- Noise
+- Noise (measured noise levels can approach 80 dB)
 - Air pollution
 - Heat
 
 ### Social
 
-- Neighborhood fragmentation
+- Neighborhood fragmentation resulting in higher crime.
 - Reduced walkability
 - Reduced social interaction
 
+
 ### Visual
 
-- Large-scale infrastructure dominating the landscape
+- Large-scale unsightly infrastructure dominating the landscape. 
+
+### Economic    
+
+- Restricted customer base for local business
+- Blighted property near the freeway
 
 ---
 
@@ -226,21 +234,22 @@ These include:
 
 Historical transportation planning often prioritized:
 
-- Vehicle movement
-- Engineering efficiency
-- Regional mobility
+- Vehicle movement. Traffic was treated like a "predictable" using fluid dynamic modeling. 
+- Engineering efficiency resulting in straight-line routing & minimized land acquisition. 
+- Regional mobility facilitating movement between booming suburbs and downtown business districts.
+- Urban terrorism.  Highways were frequently utilized as tools to demolish and redevelop neighborhoods that planners officially classified as "blighted."
 
 ---
 
 ## Contemporary Thinking
 
-Modern planning increasingly emphasizes:
+Modern planning increasingly emphasizes Modern transportation planning has completely inverted its historical formulas, shifting from a focus on vehicle throughput to a model centered on people, access, and spatial equity. 
 
-- Public health
-- Neighborhood connectivity
-- Equity
-- Public space
-- Environmental quality
+- Public health. Early planners accepted crashes as basic mathematical probabilities of high-speed fluid design. Modern planners view all traffic deaths as preventable infrastructure failures.
+- Neighborhood connectivity.  Lids act as structural bridges that reconnect severed streets. For example, Seattle’s upcoming SR 520 Roanoke Lid project will completely remake the street grid around North Capitol Hill, blending neighborhoods seamlessly.
+- Equity. Investing heavily in neighborhoods that have historically borne a disproportionate share of pollution and severe crashes.
+- Public space. Constructing a structural concrete lid over an open freeway trench creates new ground plane. This space is utilized for expansive parks, civic facilities, and public squares.
+- Environmental quality. Urban highways act as massive "pollution canyons," concentrating toxic exhaust, tire microplastics, and deafening noise directly next to dense residential zones
 
 The central question has shifted from:
 
