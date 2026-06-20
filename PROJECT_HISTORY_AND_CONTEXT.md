@@ -41,7 +41,7 @@ Travel routes followed topography, waterways, ridges, and natural gathering plac
 
 I-5 is often described as a barrier. The Indigenous landscape was organized around connections. The areas now called Wallingford, the University District, Ravenna, and Green Lake were part of a highly interconnected network of trails, waterways, fishing grounds, and seasonal gathering places.
 
-That history suggests a shift in mindset: the project is not only about the freeway. It is about the larger theme of North Seattle connection.
+**That history suggests a shift in mindset: the project is not really about the freeway. It is about the larger theme of North Seattle neighborhood connection.**
 
 ---
 
