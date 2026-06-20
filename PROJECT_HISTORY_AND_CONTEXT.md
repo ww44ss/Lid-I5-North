@@ -48,6 +48,7 @@ I-5 is often described as a barrier; the Indigenous landscape was organized arou
 
 During the late nineteenth and early twentieth centuries:
 
+### Seattle grew:   
 - Streetcar lines connected neighborhoods. The Seattle Municipal Railway connect downtown to the U-Distric. Wallingfrod had multiple lines include N45th Street and Stone Way. 
 - Development followed walkable commercial corridors and street car lines. NE 45th Street was probably the most important east-west commercial street north of downtown with commercial clusters around:
     * Wallingford Avenue N
@@ -57,14 +58,18 @@ During the late nineteenth and early twentieth centuries:
 - Residential districts expanded outward from downtown, notably in the U-District, Latona, Fremont, and Wallingford.
 - Connections between neighborhoods were relatively continuous if, in places, disjointed.
 
-Neighborhood identity emerged from:
+### Neighborhood identity emerged:   
 
-- Local Schools. Lincoln High School (built in 1906) and the original Interlake Elementary School (opened in 1904)
-- Churches and Communities. The Good Sheperd Center, a catholic convent, operated from 1907 to 1973.
-- Local business centers. U-district, Wallngford, and Latona. The U-district and Brooklyn Avenue historically known as "the place of frogs" (wəq̓iq̓əb) 
-- The growth of the U. The 1924 move of the University Bookstore to "The Ave" transformed the street into a vital retail spine.
-- The ship canal connected Lake Union to the broader region. Many Wallingford residents worked in nearby marine industries and boatbuilding. The local shops along 45th Street served as the central gathering place where these working-class families and university professors intermingled.
-- Transit. As Seattle’s classic streetcar suburb, Wallingford’s commercial life centered on N 45th St. Residents depended on this corridor to access everything from grocers to entertainment without having to commute all the way to downtown Seattle.
+* Schools anchored neighborhood life: Interlake Elementary (1904) and Lincoln High School (1906) helped define the district’s civic center.
+* Religious and social institutions reinforced community: the Good Shepherd convent and home served generations of residents.
+* Local business districts gave the area multiple “main streets”: Wallingford, Latona, and the University District each functioned as neighborhood centers.
+* The Ave became a major retail spine: the 1924 move of the University Book Store helped establish University Way as one of Seattle’s most distinctive pedestrian commercial streets.
+* 45th Street connected work, commerce, and social life: Wallingford’s main street linked residents to shops, services, and one another.
+* The district was built around transit and walkability: as a streetcar suburb, Wallingford and the U-District were organized around local access rather than freeway-speed travel.
+* The area sits within a deeper Indigenous landscape: the University District/Brooklyn area was associated with **wəq̓iq̓ə**b, “the place of frogs.”
+
+** I-5 cut through an already-established urban district rather than creating one. **
+
 
 ---
 
@@ -80,10 +85,10 @@ Cities throughout the United States were encouraged to construct high-capacity u
 
 Objectives included:
 
-- Economic growth
-- National defense
-- Regional mobility
-- Suburban expansion
+- Economic growth. Proponents argued that a continuous highway network would slash transit times and fuel costs for freight trucks
+- National defense. At the height of the Cold War, Civil Defense officials argued that wide, high-speed highways were the only viable way to quickly evacuate major cities during a nuclear strike.
+- Regional mobility. Before the interstates, driving across states required navigating slow, congested local town main streets
+- Suburban expansion.  By slashing commute times, the interstate system made cheap, outlying farmland viable for massive residential developments.
 
 ---
 
@@ -93,16 +98,16 @@ Seattle embraced freeway construction as part of a broader modernization effort.
 
 Planning assumptions of the era emphasized:
 
-- Traffic throughput
-- Vehicle capacity
-- Regional accessibility
+- Traffic throughput. Success was measured strictly by "level of service" (LOS) metrics, which calculated how fast a car could travel through a corridor.
+- Vehicle capacity.  This assumption led to designs for an incredibly dense grid of highways. Beyond building Interstate 5, plans called for a parallel 15-mile north-south highway just one mile east (the R.H. Thomson Expressway) to share the volume burden.
+- Regional accessibility.  Planners assumed that Seattle's downtown core would remain the singular, monolithic employment hub of the region, while King County's peripheral farmlands would house the workforce. Highways were envisioned as the vital umbilical cords connecting them.
 
 Far less attention was paid to:
 
-- Neighborhood cohesion
-- Environmental impacts
-- Pedestrian experience
-- Long-term social consequences
+- Neighborhood cohesion. The construction of Interstate 5 cut a massive, open-cut trench directly through the heart of Seattle. It permanently severed Wallingford and Green Lake from the U-District and Roosevelt neighborhoods, transforming a gentle, walkable slope into an artificial canyon.
+- Environmental impacts. Slicing highways through dense residential zones created permanent, roaring walls of acoustic pollution. Planners entirely failed to foresee how trapping vehicle emissions in low-lying urban valleys would degrade air quality for adjacent residents.
+- Pedestrian experience. Walking across town became an exhausting chore. To cross from Wallingford to the U-District, pedestrians were forced to navigate loud, exhaust-filled overpasses. W
+- Long-term social consequences. Planners failed to realize that infrastructure dictates demographic and economic destiny, inadvertently locking in systemic inequities for decades.
 
 ---
 
@@ -117,18 +122,16 @@ Construction of I-5 required:
 - Street modification disturting the once continuous street grids between neighborhoods.  
 - Utility relocation.
 
-The resulting corridor created a linear trench through Seattle, dividing in in half with a river of traffic, with few ways to cross. 
+The resulting corridor created a linear trench through Seattle, dividing it in half with a river of traffic, noise, and pollution, with few ways to cross. 
 
 ---
 
 ## Immediate Effects
 
-The freeway immeidately improved regional travel. With the opening of the Ship Canal Bridge, transi times between downtown Seattle and norther suburbs were reduced by 30-60%.
+The freeway immediately improved regional travel. With the opening of the Ship Canal Bridge, transit times between downtown Seattle and norther suburbs were reduced by 30-60%.
 
 At the same time it introduced:
 
-- Noise.
-- Visual disruption.
 - Air pollution.
 - Physical separation between communities.
 - Tree canopy removal. 
@@ -141,16 +144,7 @@ Many traditional neighborhood connections became more difficult or less attracti
 
 ## A Shared Geography
 
-Wallingford and the University District developed as neighboring communities connected by:
-
-- Commerce
-- Schools
-- Employment
-- Recreation
-- Social relationships
-- Street grid amenable to cars, pedestrians, and other forms of transport.
-
-The neighborhoods remain geographically close, separated by less than 100 yards. 
+Wallingford and the University District developed as neighboring connected communities. The neighborhoods remain geographically close, separated by less than 100 yards. 
 
 Yet the freeway introduces a substantial barrier between them with only scant crossings desgined primarily for automobiles.
 
@@ -164,22 +158,25 @@ Current crossings include:
 - NE 50th Street
 - Additional local connections at NE 40th and NE 65th. 
 
-Although these crossings provide access, they do not fully eliminate the psychological and physical effects of the freeway.
+Although these crossings provide "access," they do not mitigate the psychological and physical effects of the freeway.
 
-- Pedestrian crossings at NE 45th and NE 50th are limited to narrow sidewalks
+- Pedestrian crossings at NE 45th and NE 50th are limited to narrow sidewalks. They are noisy and can be dangreous to families with small children, for example. THere is nothing but a six in curb separating pedestrians on the narrow sidewalk from dense and sometimes high speed traffic. 
 - Designate bicycle lanes cross the freeway at the Burke-Gilman Trail and Ravenna Blvd., over a mile apart. Crossing by bicycle at NE 45th and NE 50th streets is unsafe. 
 
 ---
 
-## Perceived Separation
+## Perceived and Real Separation
 
-Many residents describe the freeway as:
+Many residents describe the freeway as:   
+- A dividing line between neighborhoods   
+- A barrier ending in many dead-end streets.   
+- An unpleasant crossing experience   
 
-- A dividing line between neighborhoods
-- A barrier ending in many dead-end streets.
-- An unpleasant crossing experience
+The result is reduced interaction between adjacent neighborhoods. Walking from Wallingford to the Univeristy STreet Market, for example, is arduous and results in a reduced clientelle, 
+Because the freeway cut off local foot traffic, businesses on the edges of the neighborhoods had to pivot to surviving on car-bound commuters rather than neighbors.The Metric: Commercial zoning on the streets immediately feeding the I-5 ramps (like NE 45th and NE 50th) was aggressively altered. Traditional zero-lot-line storefronts with wide sidewalks gave way to drive-thrus, gas stations, strip malls, and surface parking lots.   
+In addition, social outcomes on either side of the freeway are quite different. Crime and housing accessibility are two examples.  
 
-The result is often reduced interaction between adjacent neighborhoods.
+These are covered in more detail in a separate document. 
 
 ---
 
