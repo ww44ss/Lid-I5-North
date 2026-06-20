@@ -15,7 +15,7 @@ Its purpose is to explain:
 - Why neighborhood reconnection has become an important public objective
 - How the project fits within broader trends in urban planning and transportation
 
-The document is intended to provide context for project participants, elected officials, consultants, researchers, grant writers, interested citizens, and posibly even future AI assistants.
+The document is intended to provide context for project participants, elected officials, consultants, researchers, grant writers, interested citizens, and, possibly, future AI assistants.
 
 ---
 
