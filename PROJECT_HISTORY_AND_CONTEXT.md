@@ -23,8 +23,8 @@ The document is intended to provide context for project participants, elected of
 
 Interstate 5 is one of the most important transportation corridors in the Pacific Northwest; it is also one of the most significant physical barriers within Seattle.
 
-Constructed during the mid-twentieth century, I-5 improved regional mobility but permanently altered the physical and social structure of numerous neighborhoods, including Wallingford and the U-District. While the communities remain connected by a set of bridges and crossings, yet the freeway continues to function as a substantial divide between them, impacting the environment, social connection, and business opportunity. 
-
+Constructed during the mid-twentieth century, I-5 improved regional mobility but permanently altered the physical and social structure of numerous neighborhoods, including Wallingford, the U-District, Green Lake, and Roosevelt. The communities remain connected by a set of bridges and crossings, yet the freeway continues to function as a substantial divide between them, impacting the environment, social connection, and business opportunity. 
+ 
 The **Lid I-5 North** concept emerges from a growing recognition that urban transportation infrastructure should be evaluated not only by its ability to move vehicle over large distances at relatively high speeds, but also by its ability to move people en masse, its effect on local communities and public space, its impact on environmental quality, and its impact onn social and neighborhood cohesion.
 
 The project can therefore be understood as part of a broader effort to repair, reconnect, and reimagine urban spaces shaped by twentieth-century transportation decisions along with other projects in the Seattle area, including downtown, Southpark, adn Roanoke. 
