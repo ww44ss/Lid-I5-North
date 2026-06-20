@@ -99,18 +99,13 @@ Objectives included:
 
 Seattle embraced freeway construction as part of a broader modernization effort.
 
-Planning assumptions of the era emphasized:
+Planning assumptions of the era emphasized traffic throughput, vehicle capacity, and regional accessibility. Success was measured largely by "level of service" metrics, which calculated how fast cars could move through a corridor. This emphasis led to plans for an extremely dense highway network. Beyond I-5, planners proposed the R.H. Thomson Expressway, a parallel 15-mile north-south highway about one mile east.
 
-- Traffic throughput. Success was measured largely by "level of service" metrics, which calculated how fast cars could move through a corridor.
-- Vehicle capacity. This assumption led to plans for an extremely dense highway network. Beyond I-5, planners proposed the R.H. Thomson Expressway, a parallel 15-mile north-south highway about one mile east.
-- Regional accessibility. Planners assumed that downtown Seattle would remain the region's dominant employment center, while King County's outlying areas would house much of the workforce. Highways were treated as the essential links between them.
+Planners also assumed that downtown Seattle would remain the region's dominant employment center, while King County's outlying areas would house much of the workforce. Highways were treated as the essential links between them.
 
-Far less attention was paid to:
+Far less attention was paid to neighborhood cohesion, environmental impacts, pedestrian experience, and long-term social consequences. Construction of I-5 cut a massive open trench through Seattle. It permanently separated Wallingford and Green Lake from the University District and Roosevelt, turning a walkable slope into an artificial canyon.
 
-- Neighborhood cohesion. Construction of I-5 cut a massive open trench through Seattle. It permanently separated Wallingford and Green Lake from the University District and Roosevelt, turning a walkable slope into an artificial canyon.
-- Environmental impacts. Highways through dense residential zones created permanent noise pollution. Planners also underestimated how vehicle emissions trapped in low-lying urban corridors would affect nearby residents.
-- Pedestrian experience. Walking across town became harder and less pleasant. To get from Wallingford to the University District, pedestrians had to use loud, exhaust-filled overpasses.
-- Long-term social consequences. Planners failed to recognize how infrastructure could shape demographic and economic outcomes for decades.
+Highways through dense residential zones created permanent noise pollution. Planners also underestimated how vehicle emissions trapped in low-lying urban corridors would affect nearby residents. Walking across town became harder and less pleasant. To get from Wallingford to the University District, pedestrians had to use loud, exhaust-filled overpasses. Planners also failed to recognize how infrastructure could shape demographic and economic outcomes for decades.
 
 Note: Partly as a response to the damage caused by freeways and polluting industries, the National Environmental Policy Act (NEPA) and the Clean Air Act were signed into law on January 1, 1970.
 
@@ -298,16 +293,7 @@ Common goals include:
 
 ## The Basic Idea
 
-A lid or cap allows land above transportation infrastructure to be used for:
-
-- Parks
-- Trails
-- Public gathering spaces
-- Development
-- Community facilities
-- Housing
-
-The transportation function remains below. Community functions occur above.
+A lid or cap allows land above transportation infrastructure to serve community purposes. The space above a freeway can become a park, trail, public gathering place, development site, community facility, or housing opportunity. The transportation function remains below, while new civic and neighborhood functions occur above.
 
 ---
 
@@ -315,11 +301,7 @@ The transportation function remains below. Community functions occur above.
 
 Early lid projects were often viewed primarily as engineering solutions.
 
-More recent projects are increasingly viewed as:
-
-- Community-building investments
-- Economic development tools
-- Public-space projects
+More recent projects are increasingly viewed as community-building investments, economic development tools, and public-space projects. In this sense, a lid is not only a way to cover infrastructure. It is a way to recover land, repair connections, and create places that serve the neighborhoods around them.
 
 ---
 
