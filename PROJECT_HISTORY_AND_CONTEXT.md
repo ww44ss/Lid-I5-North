@@ -59,11 +59,12 @@ During the late nineteenth and early twentieth centuries:
 
 Neighborhood identity emerged from:
 
-- Schools
-- Churches
-- Local business centers
-- Parks
-- Streetcar routes
+- Local Schools. Lincoln High School (built in 1906) and the original Interlake Elementary School (opened in 1904)
+- Churches and Communities. The Good Sheperd Center, a catholic convent, operated from 1907 to 1973.
+- Local business centers. U-district, Wallngford, and Latona. The U-district and Brooklyn Avenue historically known as "the place of frogs" (wəq̓iq̓əb) 
+- The growth of the U. The 1924 move of the University Bookstore to "The Ave" transformed the street into a vital retail spine.
+- The ship canal connected Lake Union to the broader region. Many Wallingford residents worked in nearby marine industries and boatbuilding. The local shops along 45th Street served as the central gathering place where these working-class families and university professors intermingled.
+- Transit. As Seattle’s classic streetcar suburb, Wallingford’s commercial life centered on N 45th St. Residents depended on this corridor to access everything from grocers to entertainment without having to commute all the way to downtown Seattle.
 
 ---
 
