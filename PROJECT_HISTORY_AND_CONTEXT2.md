@@ -15,7 +15,7 @@ Its purpose is to explain:
 - Why neighborhood reconnection has become an important public objective
 - How the project fits within broader changes in urban planning and transportation
 
-The document is intended for project participants, elected officials, consultants, researchers, grant writers, interested citizens, and possibly future AI assistants.
+The document is intended for project participants, elected officials, consultants, researchers, grant writers, and interested citizens.
 
 ---
 
@@ -25,9 +25,9 @@ Interstate 5 is one of the most important transportation corridors in the Pacifi
 
 Built in the mid-twentieth century, I-5 improved regional mobility but permanently changed the physical and social structure of many neighborhoods, including Wallingford, the University District, Green Lake, and Roosevelt. These communities remain connected by bridges and crossings, but the freeway still functions as a major divide. It affects the environment, social connection, local movement, and business opportunity.
 
-The **Lid I-5 North** concept comes from a growing recognition that urban transportation infrastructure should be evaluated by more than its ability to move vehicles over long distances at high speeds. It should also be judged by how well it moves people, how it affects surrounding communities and public space, how it shapes environmental quality, and how it supports social and neighborhood cohesion.
+The **Lid I-5 North** concept comes from a growing recognition that urban transportation infrastructure should be evaluated by more than its ability to move vehicles over long distances at high speeds. It should also be judged by how it affects surrounding communities and public space, shapes environmental quality, and supports social and neighborhood cohesion.
 
-The project can therefore be understood as part of a broader effort to repair, reconnect, and reimagine urban spaces shaped by twentieth-century transportation decisions. Similar conversations are happening in other parts of Seattle, including downtown, South Park, and Roanoke.
+The project can therefore be understood as part of a broader effort to repair, reconnect, and reimagine urban spaces shaped by twentieth-century transportation decisions. Similar conversations are happening in other parts of Seattle including South Park, Roanoke, and Downtown.
 
 ---
 
@@ -37,74 +37,71 @@ The project can therefore be understood as part of a broader effort to repair, r
 
 Before European settlement, the area was home to Coast Salish peoples, including the ancestors of the Duwamish and related communities. The travel routes of these peoples followed topography, waterways, ridges, and natural gathering places.
 
-I-5 is often described as a barrier. The Indigenous landscape was organized around connections. The areas now called Wallingford, the University District, Ravenna, and Green Lake were part of a highly interconnected network of trails, waterways, fishing grounds, and seasonal gathering places. This mindset is relevant to the Lid I-5 North project; it's not really about the freeway - it's about the *reconnection* of communities. 
-
-Long before the area was called Brooklyn or the University District, the Portage Bay shoreline was part of a Lushootseed-speaking Duwamish landscape that included wəq̓iq̓əb — “place of frogs” — a name that reflects the wetland ecology of the bay and the deep Indigenous history of the corridor. 
-
-**Turning our focus away from the freeway toward community connection is an important mindset shift.**
+I-5 is often described as a barrier. The Indigenous landscape was organized around connections. The areas now called Wallingford, the University District, Ravenna, and Green Lake were part of a highly interconnected network of trails, waterways, fishing grounds, and seasonal gathering places. This mindset is relevant to the Lid I-5 North project; it's not about the freeway - it *reconnects* communities. 
 
 ---
 
-## Early Seattle Development (*ca.* 1890's - 1940's)
+## Early Seattle Development (*ca.* 1890 - 1945)
 
-### Seattle Growth
+During the late nineteenth and early twentieth centuries, Seattle's population grew from 80,671 to 467,591.
 
-During the late nineteenth and early twentieth centuries, Seattle’s population grew from 80,671 in 1890 to 467,591 in 1950—an average compound annual growth rate of roughly 3.0% over six decades.
+### Seattle Expanded
 
-- *Streetcar lines* connected neighborhoods. The Seattle Municipal Railway connected downtown to the University District, and Wallingford had several lines, including routes along N 45th Street and Stone Way. Development followed. NE 45th Street was probably the most important east-west commercial street north of downtown, with commercial clusters around:
+- *Streetcar lines* connected neighborhoods. The Seattle Municipal Railway connected downtown to the University District, and Wallingford had several lines, including routes along N 45th Street and Stone Way. Development followed walkable commercial corridors and streetcar lines. NE 45th Street was probably the most important east-west commercial street north of downtown, with commercial clusters around:
   - Wallingford Avenue N
   - Stone Way N
   - Latona Avenue NE
   - University Way NE
   
-- *Residential districts* expanded outward from downtown, especially in the University District, Latona, Fremont, and Wallingford.
+- *Residential districts* expanded outward from downtown, especially in the University District, Latona, Fremont, and Wallingford. Connections between these neighborhoods were relatively continuous, even where they were imperfect or disjointed.
 
-### Neighborhood Identities Emerged   
+### Neighborhood Identities Emerged
 
-Neighborhoods emerged around transportation corridors, business centers, and institutions. All of these helped to build local identity and community.   
-   
-- *Schools* anchored neighborhood life. Interlake Elementary (1904) and Lincoln High School (1906) helped define the district's civic center.
-- *Religious and social institutions* reinforced community. The Good Shepherd convent and home served generations of residents.
+Neighborhoods emerged around transportation corridors, business centers, and institutions. All of these helped to build local identity and community. 
+
+- *Schools* anchored neighborhood life. Interlake Elementary (1904) and Lincoln High School (1906) helped define the district's civic center. - *Religious and social institutions* reinforced community. The Good Shepherd convent and home served generations of residents.
 - *Local business districts* gave the area multiple main streets. Wallingford, Latona, and the University District each functioned as neighborhood centers.
 - *The Ave* became a major retail spine. The 1924 move of the University Book Store helped establish University Way as one of Seattle's most distinctive pedestrian commercial streets.
-- *45th Street* connected work, commerce, and social life. Wallingford's main street linked residents to shops, services, and one another.
+- *N 45th Street* connected work, commerce, and social life. Wallingford's main street linked residents to shops, services, and one another. 
 - The district was built around *transit and walkability*. As streetcar suburbs, Wallingford and the University District were organized around local access rather than freeway-speed travel.
-
+- The area sits within a deeper Indigenous landscape. The University District/Brooklyn area was associated with **wəq̓iq̓əb**, "the place of frogs."
 
 **I-5 cut through an already-established urban district rather than creating one.**
 
 ---
 
-# The Rise of the Automobile (*ca.* 1940's - 1970's)
+# The Rise of the Automobile (*ca.* 1950 - present)
 
-From roughly the 1940s through the 1960s, U.S. transportation planning became strongly automobile-centered, with federal, state, and local policy prioritizing urban freeways, suburban road access, and traffic flow over transit, walking, and neighborhood continuity.
+In the era after WWII transportation planning shifted toward an automobile-centered worldview.
 
 ## National Context
 
-After World War II, federal policy strongly favored automobile transportation. Streetcar and trolley lines were abandoned in favor of road construction and automobile travel.
+Federal policy strongly favored automobile transportation. The Federal-Aid Highway Act of 1956, signed during the Eisenhower administration, launched the Interstate Highway System.S treetcar and trolley lines were abandoned in favor of road construction and automobile travel.
 
-The Federal-Aid Highway Act of 1956, signed during the Eisenhower administration, launched the Interstate Highway System. Cities across the United States were encouraged to build high-capacity urban freeways.
+Cities across the United States were encouraged to build high-capacity urban freeways.
 
-Objectives included:
+Primary objectives included:
 
-- *Economic growth*. Proponents argued that a continuous highway network would reduce travel times and fuel costs for freight.
-- *National defense*. At the height of the Cold War, civil defense officials argued that wide, high-speed highways were necessary to evacuate major cities during a nuclear strike.
-- *Regional mobility*. Before the interstate system, cross-state driving often meant navigating slow, congested main streets in town after town.
-- *Suburban expansion*. By reducing commute times, the interstate system made outlying farmland more viable for large residential developments.
+- *Economic growth.* Proponents argued that a continuous highway network would reduce travel times and fuel costs for freight.
+- *National defense.* At the height of the Cold War, civil defense officials argued that wide, high-speed highways were necessary to evacuate major cities during a nuclear strike.
+- *Regional mobility.* Before the interstate system, cross-state driving often meant navigating slow, congested main streets in town after town.
+- *Suburban expansion.* By reducing commute times, the interstate system made outlying farmland more viable for large residential developments.
+
+
 
 ---
 
 ## Seattle's Participation
 
-Seattle embraced freeway construction as part of a broader modernization effort.
+Seattle embraced freeway construction as part of a broader modernization effort supporting National Objectives.
 
 Planning assumptions of the era emphasized traffic throughput, vehicle capacity, and regional accessibility. Success was measured largely by "level of service" metrics, which calculated how fast cars could move through a corridor. This emphasis led to plans for an extremely dense highway network. Beyond I-5, planners proposed the R.H. Thomson Expressway, a parallel 15-mile north-south highway about one mile east.
 
 Planners also assumed that downtown Seattle would remain the region's dominant employment center, while King County's outlying areas would house much of the workforce. Highways were treated as the essential links between them.
 
-Far less attention was paid to neighborhood cohesion, environmental impacts, pedestrian experience, and long-term social consequences. Construction of I-5 cut a massive open trench through Seattle and permanently separated Wallingford and Green Lake from the University District and Roosevelt, turning a walkable slope into an artificial canyon.
+Far less attention was paid to neighborhood cohesion, environmental impacts, pedestrian experience, and long-term social consequences. Construction of I-5 cut a massive open trench through Seattle, permanently separating neighborhoods such as splitting Wallingford and Green Lake from the University District and Roosevelt. The freeway turned a walkable slope into an artificial canyon.
 
-**Beginning in the late 1960s, this approach was increasingly contested.** By the 1970s transportation planning began to reintroduce transit, environmental review, and broader metropolitan planning.
+
 
 ---
 
@@ -112,15 +109,16 @@ Far less attention was paid to neighborhood cohesion, environmental impacts, ped
 
 ## Physical Transformation
 
-Construction of I-5 required:
+Seattle's geography is highly constrained by natural waterways and hills. Construction of I-5 required:
 
-- *Large-scale excavation* of land and hillsides to accommodate Seattle's geography
-- *Property acquisition* where urban development stood in the path of the freeway
-- *Street modifications* that disrupted formerly continuous neighborhood grids
+- Large-scale excavation of land and hillsides to accommodate Seattle's geography
+- Property acquisition where urban development stood in the path of the freeway
+- Street modifications that disrupted formerly continuous neighborhood grids
+- Utility relocation
 
-Freeway routes were often chosen through disadvantaged communities. Some wealthier communities were able to prevent or delay freeway construction, such as South Pasadena, California.
+Freeway routes were often chosen through disadvantaged communities. 
 
-
+The resulting corridor created a linear trench through Seattle, effectively dividing parts of the city in half.
 
 ---
 
@@ -128,21 +126,17 @@ Freeway routes were often chosen through disadvantaged communities. Some wealthi
 
 The freeway immediately improved regional travel. With the opening of the Ship Canal Bridge, travel times between downtown Seattle and northern suburbs were reduced by 30 to 60 percent.
 
-At the same time, I-5 produced the negative consequences described above.
-
-**The resulting I-5 corridor created a linear trench through Seattle, effectively dividing the city in half.**
+Highways through dense residential zones created permanent noise pollution. Planners also underestimated how vehicle emissions trapped in low-lying urban corridors would affect nearby residents. Walking across town became harder and less pleasant. To get from Wallingford to the University District, pedestrians had to use loud, exhaust-filled overpasses. Planners also failed to recognize how infrastructure could shape demographic and economic outcomes for decades.
 
 ---
 
 # Wallingford and the University District
 
-The two neighborhoods at the center of this project are Wallingford and the University District. Instead of feeling like parts of a continuous cityscape, today they feel and function like separate communities. 
+The two neighborhoods at the center of this project are Wallingford and the University District. Instead of feeling like parts of a continuous cityscape, they often feel and function like separate communities. This is a direct result of the freeway.
 
-Although the neighborhoods are physically separated by less than 100 yards, the freeway creates a substantial barrier between them. The few crossings that exist were designed primarily for automobiles.
+## A Shared Geography
 
----
-
-## Existing Crossings
+Wallingford and the University District developed as neighboring, connected communities. Although the neighborhoods are physically separated by less than 100 yards, the freeway creates a canyon-like barrier between them. The few crossings that exist are designed primarily for automobiles.
 
 Current freeway crossings include:
 
@@ -151,13 +145,12 @@ Current freeway crossings include:
 - NE 40th Street, which provides an additional local connection to the University District
 - NE 65th Street and Ravenna Boulevard, which connect Green Lake and Roosevelt under I-5
 
-Although these crossings provide passable routes between the east and west sides of the freeway trench, they do not mitigate the psychological effects and physical-safety risks. In many cases, they intensify those effects.
+Although these crossings provide routes between the east and west sides of the freeway trench, they do not mitigate the psychological and physical effects of the freeway. In many cases, they intensify those effects.
 
-- *Pedestrian and bicycle crossing at NE 45th and NE 50th* is limited to narrow sidewalks. A six-inch curb separates pedestrians from dense, sometimes high-speed traffic. Shared space between cyclists and pedestrians can also create conflicts.
-- *Designated bicycle crossings* exist at the Burke-Gilman Trail and Ravenna Boulevard, more than a mile apart.
-- *Noise levels can reach 80 dB*, just below the 85 dB threshold associated with risk from prolonged exposure.
-
-**Plans to add a protected bicycle crossing on NE 45th Street as late as 2022 were scraped in favor of prioritized automobile traffic.**
+- Pedestrian crossings at NE 45th and NE 50th are limited to narrow sidewalks of about 10 feet. They are amponth the ten-most dangerous intersections for pedestrians in Seattle. Shared space between cyclists and pedestrians can also create conflicts. 
+- There are no designated bicycle crossings at these intereseections. Plans to revise the intersections were dropped in 2020 by SDOT over concerns for congestion on I-5. 
+- Designated bicycle crossings of I-5 exist at the Burke-Gilman Trail and Ravenna Boulevard, separated by several hundred feet of elevation and more than a mile apart.
+- Noise levels at the intersections can reach 80 dB, just below the 85 dB threshold associated with risk from prolonged noise exposure.
 
 ---
 
@@ -169,13 +162,13 @@ Many residents describe the freeway as:
 - A barrier that creates dead-end streets
 - An unpleasant crossing experience
 
-The result is reduced interaction between adjacent neighborhoods. 
+The result is reduced interaction between adjacent neighborhoods. Walking from Wallingford to the University District farmers market, for example, can feel arduous, which reduces potential clientele. As local foot traffic declined, some businesses near the freeway had to orient themselves more toward car-bound commuters than nearby residents.
 
 Commercial zoning on streets feeding the I-5 ramps, especially NE 45th and NE 50th, also changed. Traditional zero-lot-line storefronts with wide sidewalks gave way in places to drive-throughs, gas stations, strip malls, and surface parking lots. This change is especially apparent on NE 45th Street.
 
 Social outcomes can differ sharply across the freeway. Crime, housing accessibility, and neighborhood conditions can vary greatly between Wallingford and the University District, even on streets that are physically close to one another.
 
-**The I-5 Freeway, as it exists today, creates divided separate communities.**
+These issues are covered in more detail in a separate document.
 
 ---
 
@@ -187,18 +180,20 @@ Interstate 5 provides significant regional benefits that extend beyond Wallingfo
 
 These include:
 
-- Freight movement. I-5 is a major north-south trucking route through Seattle. An estimated 5.8 million semi-trucks and commercial vehicles move through Seattle on I-5 annually.
+- Freight movement. I-5 is a major north-south trucking route through Seattle. An estimated 5.8 million semi-trucks and commercial vehicles move through Seattle on I-5 annually, or roughly 16,000 trucks a day carrying more than 81 million tons of cargo per year through the region.
 - Commuting. The heaviest concentration of commuters on I-5 occurs at the Ship Canal Bridge, which sees approximately 240,000 vehicles cross daily in both directions.
 - Economic activity. Freeway traffic links workers to business centers and shapes local spending patterns.
 - Regional connectivity between suburbs, downtown, and communities east of Seattle.
 
-**The freeway is, and remains, essential infrastructure for the larger Seattle region.**
+The freeway is, and remains, essential infrastructure for the larger Seattle region.
 
 ---
 
-## Costs and Impacts
+## Costs
 
-The same infrastructure also imposes costs. These include:
+The same infrastructure also imposes costs.
+
+These include:
 
 ### Environmental
 
@@ -222,8 +217,6 @@ The same infrastructure also imposes costs. These include:
 - Restricted local movement reduces the customer base for local businesses.
 - Freeway noise and pollution can contribute to disinvestment and lower property values near the freeway.
 
-**We can retain the benefits of our freeway infrastructure while still reconnecting our communities.**
-
 ---
 
 # Changing Planning Philosophy
@@ -235,7 +228,7 @@ Historical transportation planning often prioritized:
 - Vehicle movement. Traffic was treated as predictable and modeled through engineering formulas.
 - Engineering efficiency, including straight-line routing and minimized land acquisition costs.
 - Regional mobility, especially movement between growing suburbs and downtown business districts.
-
+- Urban renewal. Highways were frequently used as tools to demolish and redevelop neighborhoods officially classified as "blighted."
 
 ---
 
@@ -243,19 +236,19 @@ Historical transportation planning often prioritized:
 
 Modern transportation planning has increasingly shifted from vehicle throughput toward people, access, health, and spatial equity.
 
-- *Public health.* Earlier planners often treated crashes as an expected cost of high-speed transportation systems. Modern planners increasingly view traffic deaths as preventable infrastructure failures.
-- *Neighborhood connectivity.* Lids can act as structural bridges that reconnect severed streets. For example, Seattle's upcoming SR 520 Roanoke Lid project will remake parts of the street grid around North Capitol Hill.
-- *Equity.* Contemporary planning places greater emphasis on investing in neighborhoods that have historically borne a disproportionate share of pollution, crashes, and displacement. Seattle South Park Reconnection Effort focuses on remedying community harm. 
-- Public space. A structural lid over an open freeway trench can create a new ground plane for parks, civic facilities, public squares, housing, and other community uses whihc are depserately needed in local neighborhoods.
+- Public health. Earlier planners often treated crashes as an expected cost of high-speed transportation systems. Modern planners increasingly view traffic deaths as preventable infrastructure failures.
+- Neighborhood connectivity. Lids can act as structural bridges that reconnect severed streets. For example, Seattle's upcoming SR 520 Roanoke Lid project will remake parts of the street grid around North Capitol Hill.
+- Equity. Contemporary planning places greater emphasis on investing in neighborhoods that have historically borne a disproportionate share of pollution, crashes, and displacement.
+- Public space. A structural lid over an open freeway trench can create a new ground plane for parks, civic facilities, public squares, housing, and other community uses.
 - Environmental quality. Urban highways can function as pollution canyons, concentrating exhaust, tire particles, and noise next to dense residential areas.
 
 The central question has shifted from:
 
-**How many vehicles can move through a corridor?**
+> How many vehicles can move through a corridor?
 
 to:
 
-**How can transportation infrastructure support thriving communities?**
+> How can transportation infrastructure support thriving communities?
 
 ---
 
@@ -271,9 +264,6 @@ Examples include:
 - Highway caps
 - Boulevard conversions
 - Neighborhood reconnection projects
-
-**Roughly 257 projects Nationwide have been awarded since FY2022.**
-
 
 ---
 
@@ -292,9 +282,7 @@ Common goals include:
 
 ## The Basic Idea
 
-A lid or cap allows land above transportation infrastructure to serve community purposes. The space above a freeway can become a park, trail, public gathering place, development site, community facility, or housing opportunity. The transportation function remains below, while new civic and neighborhood functions occur above.  
-
-**Highway Lids remediate the harms of transportation projects while preserving or even enhancing highway transportation**.
+A lid or cap allows land above transportation infrastructure to serve community purposes. The space above a freeway can become a park, trail, public gathering place, development site, community facility, or housing opportunity. The transportation function remains below, while new civic and neighborhood functions occur above.
 
 ---
 
@@ -333,11 +321,11 @@ Positive lessons:
 
 Challenges:
 
-- Visibility. Lawrence Halprin's original design used dense plantings and massive, maze-like concrete walls to isolate the park from the roar of the freeway below. Over time these obscured sightlines, making the park difficult to navigate.
-- Maintenance. The park's cascading waterfalls, fountains, and pools have been difficult and expensive to service.
-- Perceived safety. Because of the visibility issues and secluded, winding design, the park developed a reputation as unsafe.
+- Visibility. Lawrence Halprin's original design used dense plantings and massive, maze-like concrete walls to isolate the park from the roar of the freeway below. Over time, thick concrete barriers and overgrown trees obscured sightlines, making the park difficult to navigate and making entrances and exits harder to find.
+- Maintenance. The park's cascading waterfalls, fountains, and pools have been difficult and expensive to service. Underground plumbing, debris traps, aging pumps, overgrown vegetation, and mature trees have all created maintenance challenges.
+- Perceived safety. Because of the visibility issues and secluded, winding design, the park developed a reputation as unsafe. Even when crime statistics improved, hidden corners, poor after-dark lighting, and tunnel-like pathways sustained a lingering negative perception.
 
-**These lessons should inform future design decisions.**
+These lessons should inform future design decisions.
 
 ---
 
@@ -347,18 +335,25 @@ Challenges:
 
 Unlike downtown projects, Lid I-5 North focuses on:
 
-- Residential communities adjacent to the freeway.
-- Leveraging the benefits of the original landscape to reduce lid cost.
-- Enhanced Daily life, such as commerical access, transit access, and walkability.\
-- Creation of Public Space.
-- Possible housing development on adjacent property.
+- Residential communities
+- Daily life
+- Local connections
 
+---
+
+## Community-Oriented Goals
+
+The project is motivated less by tourism and more by:
+
+- Neighborhood connectivity
+- Public space
+- Quality of life
 
 ---
 
 ## Opportunity for Innovation
 
-The project offers a unique opportunity to rethink:
+The project offers an opportunity to rethink:
 
 - How freeways interact with neighborhoods
 - How public space is created
@@ -384,7 +379,7 @@ Common themes include:
 Common themes include:
 
 - Educational institutions
-- A rich international heritage. 
+- Diversity
 - Transit access
 - Cultural activity
 
@@ -408,29 +403,27 @@ Both communities value:
 
 The project can be understood through three eras.
 
-### Era 1: Connection (1890 - 1940)
+### Era 1: Connection (1890 - 1950)
 
 Neighborhoods developed with strong local connections.
 
-### Era 2: Division (1940 - present)
+### Era 2: Division (1950 - present)
 
-Construction of Interstate 5 introduced a major barrier which remains unmitigated today. 
+Construction of Interstate 5 introduced a major barrier.
 
 ### Era 3: Reconnection (our future)
 
 The present generation has an opportunity to reconnect neighborhoods while preserving regional mobility.
 
-Our narrative is historically grounded. It does not assign blame. It approaches the problem with curiosity and asks what can be repaired, improved, and learned.
+This narrative is historically grounded. It does not assign blame. It approaches the problem with curiosity and asks what can be repaired, improved, and learned.
 
 ---
 
-# Historical Risks  
-
-We can learn from the successes and failures of other similar projects.
+# Historical Risks
 
 ## Oversimplification
 
-The freeway should not be portrayed solely as a mistake. It provides significant regional economic and transportation benefits.
+The freeway should not be portrayed solely as a mistake. It provided significant regional economic and transportation benefits.
 
 ---
 
@@ -452,7 +445,7 @@ The project should focus on measurable opportunities rather than symbolic claims
 
 # Key Historical Questions
 
-This will be a key area where we seek to engage community input.
+This will be a key area of community input.
 
 ## Research Questions
 
