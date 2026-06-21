@@ -112,7 +112,7 @@ Current freeway crossings include NE 45th Street, NE 50th Street, NE 40th Street
 
 At NE 45th and NE 50th, pedestrians and cyclists are limited to narrow sidewalks next to dense, sometimes high-speed traffic. A six-inch curb separates people from vehicles. Designated bicycle crossings exist at the Burke-Gilman Trail and Ravenna Boulevard, more than a mile apart. Noise levels can reach 80 dB, just below the 85 dB threshold associated with risk from prolonged exposure.
 
-**Plans to add a protected bicycle crossing on NE 45th Street as late as 2022 were scrapped in favor of prioritized automobile traffic.**
+**Plans to add a protected bicycle crossing on NE 45th Street as late as 2022 were scrapped in favor of prioritizing automobile traffic.**
 
 ---
 
@@ -174,7 +174,7 @@ The central question has shifted from:
 
 to:
 
-**How can transportation infrastructure support thriving communities?**
+**How can transportation infrastructure support and co-exist with thriving communities?**
 
 ---
 
@@ -184,7 +184,7 @@ Across North America, cities have begun reassessing infrastructure decisions mad
 
 The goals are consistent: restore community connections, improve quality of life, create public space, and support economic development.
 
-**Roughly 257 projects nationwide have been awarded since FY2022.**
+**Roughly 257 reconnections projects have been awarded nationwide since FY2022.**
 
 ---
 
@@ -204,7 +204,7 @@ Seattle already contains several examples of freeway-overbuild infrastructure, i
 
 Freeway Park remains one of the most important local precedents. It created a landmark public space and a successful physical connection across I-5. It also offers lessons in visibility, maintenance, and perceived safety. Lawrence Halprin's original design used dense plantings and massive concrete walls to isolate the park from the freeway below, but over time these features obscured sightlines and made the park harder to navigate. Its water features have also been expensive to maintain, and secluded paths contributed to a lasting perception of safety concerns.
 
-**These lessons should inform future design decisions.**
+**Our history with freeway lids can and should inform future design decisions.**
 
 ---
 
@@ -212,7 +212,9 @@ Freeway Park remains one of the most important local precedents. It created a la
 
 Unlike downtown projects, Lid I-5 North focuses on residential communities adjacent to the freeway. It also has the potential to leverage the surrounding landscape to reduce lid cost, improve daily life, strengthen commercial and transit access, create public space, improve walkability, and potentially support housing on adjacent property.
 
-The project offers a unique opportunity to rethink how freeways interact with neighborhoods, how public space is created, and how infrastructure investments create community value.
+The project offers a unique opportunity to rethink how freeways interact with neighborhoods, how public space is created, and how infrastructure investments create community value.  
+
+**Lid I-5 North focuses on restoring and reconnecting residential communities.**
 
 ---
 
@@ -220,7 +222,9 @@ The project offers a unique opportunity to rethink how freeways interact with ne
 
 Wallingford and the University District have distinct identities, but they share important values. Wallingford is known for strong neighborhood identity, walkability, local businesses, and civic engagement. The University District is shaped by educational institutions, international heritage, transit access, and cultural activity.
 
-Both communities value public space, walkability, safety, environmental quality, and local character.
+Both communities value public space, walkability, safety, environmental quality, and local character.  
+
+**Connection will enhance all adjacent communities**
 
 ---
 
@@ -242,9 +246,9 @@ This narrative is historically grounded. It does not assign blame. It approaches
 
 We can learn from the successes and failures of similar projects.
 
-The freeway should not be portrayed solely as a mistake. It provides significant regional economic and transportation benefits. The objective is not to recreate the past. The objective is to create a better future.
+*The freeway should not be portrayed solely as a mistake.* It provides significant regional economic and transportation benefits. The objective is not to recreate the past. The objective is to create a better future.
 
-Historical impacts should not be exaggerated. Neighborhoods adapted in many ways, and the project should focus on measurable opportunities rather than symbolic claims alone.
+*Historical impacts should not be exaggerated.* Neighborhoods adapted in many ways, and the project should focus on measurable opportunities rather than symbolic claims alone.
 
 ---
 
@@ -259,6 +263,8 @@ Community input and future research should help answer several important questio
 - What community concerns were expressed historically?
 
 Future sources may include Seattle Municipal Archives, University of Washington Libraries, Washington State Archives, Seattle Times archives, historical aerial photographs, WSDOT historical records, and oral histories from long-term residents.
+   
+**What are your ideas?**   
 
 ---
 
@@ -268,10 +274,10 @@ The Lid I-5 North project exists because transportation infrastructure shapes co
 
 Interstate 5 successfully connected cities and regions across the Pacific Northwest, but it also changed the physical and social relationships between adjacent Seattle neighborhoods. Wallingford and the University District remain close on a map, yet the freeway has made them feel farther apart in daily life.
 
-That separation is not inevitable. It is the result of choices made in another era, under a different set of planning assumptions. We now have the chance to make a better set of choices.
+*That separation is not inevitable.* It is the result of choices made in another era, under a different set of planning assumptions. We now have the chance to make a better set of choices.
 
 The question before us is not simply whether we can cover a freeway. The question is whether we are willing to use infrastructure investment to repair connections, create public space, improve environmental conditions, support local businesses, and build a healthier civic landscape for North Seattle.
 
 Lid I-5 North should move forward as a serious community project. The next step is to bring residents, businesses, institutions, agencies, technical experts, and elected leaders into a shared process: document the harms, define the opportunities, test feasible designs, and build the public will needed to reconnect these neighborhoods.
 
-The freeway will continue to serve the region. The land above it can serve the community.
+**The freeway will continue to serve the region. The land above it can serve the community.**
