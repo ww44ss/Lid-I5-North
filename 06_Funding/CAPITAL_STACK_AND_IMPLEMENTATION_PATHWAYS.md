@@ -9,7 +9,7 @@
 
 # Executive Summary
 
-This memo is the practical companion to **ECONOMICS_AND_FUNDING_v2.md**. Its purpose is not to restate why Lid I‑5 North is a good idea. It is to answer the harder question:
+This memo is the practical companion to [ECONOMICS_AND_FUNDING_v2.md](../02_Economics/ECONOMICS_AND_FUNDING_v2.md). Its purpose is not to restate why Lid I‑5 North is a good idea. It is to answer the harder question:
 
 > **If the project moves from vision to implementation, what funding sources are actually plausible, what is the pitch for each one, what legal barriers matter, and what sequence of actions gives the project the best chance of success?**
 
@@ -111,13 +111,13 @@ This section matters because it shapes the whole strategy.
 ## 2.1 Washington does not have the same easy TIF playbook as Texas
 A lot of lid discussions casually reference **Klyde Warren Park** in Dallas. That is useful for inspiration but dangerous as a funding analogy.
 
-Texas and many other states have a longer, more flexible tradition of tax increment financing and development districts. Washington’s TIF environment is newer, narrower, and more constrained. Washington authorized a modern local TIF framework in 2021, and the legislature has continued revising it, including 2026 changes to chapter 39.114 RCW. But it is still not the same as the broad, deeply normalized TIF toolkit used in some other states. citeturn0search1turn0search3turn0search11
+Texas and many other states have a longer, more flexible tradition of tax increment financing and development districts. Washington’s TIF environment is newer, narrower, and more constrained. Washington authorized a modern local TIF framework in 2021, and the legislature has continued revising it, including 2026 changes to [chapter 39.114 RCW](https://app.leg.wa.gov/RCW/default.aspx?cite=39.114). But it is still not the same as the broad, deeply normalized TIF toolkit used in some other states. The [Washington Department of Revenue’s legislative summary](https://dor.wa.gov/forms-publications/publications-subject/special-notices/legislative-changes-local-tax-increment-financing-ltif) describes the 2021 authorization and subsequent amendments.
 
 ### Practical consequence
 Do **not** build the project’s primary narrative around “we’ll just do a TIF district like Dallas.” That will not survive contact with Washington law or politics.
 
 ## 2.2 Washington LIDs are real and powerful—but they are benefit-based, not magic
-Washington cities can use **Local Improvement Districts**. Seattle has done so recently for the waterfront. A LID is a special assessment on property that receives a **special benefit** from the improvement. It is not a general tax. It must be legally tied to benefit and is politically sensitive because property owners pay directly. citeturn0search0turn0search8turn0search13
+Washington cities can use **Local Improvement Districts**. Seattle has done so recently for the waterfront. A LID is a special assessment on property that receives a **special benefit** from the improvement. It is not a general tax. It must be legally tied to benefit and is politically sensitive because property owners pay directly. See the City of Seattle’s [Waterfront Local Improvement District overview](https://seattle.gov/waterfront/about-the-waterfront/local-improvement-district).
 
 ### Practical consequence
 A LID is plausible for Lid I‑5 North **only if**:
@@ -171,7 +171,7 @@ This is the most obvious federal fit for the project’s core reconnection missi
 - capital construction that mitigates a highway barrier
 - community benefits tied to reconnection and access
 
-The federal **Reconnecting Communities Pilot** program explicitly exists to restore connectivity by removing, retrofitting, or mitigating highways and other transportation barriers. It can support both planning and capital construction. citeturn0search2turn0search5turn0search9turn0search10
+The federal [Reconnecting Communities Pilot program](https://www.transportation.gov/rural/grant-toolkit/reconnecting-communities-pilot-rcp-program) explicitly exists to restore connectivity by removing, retrofitting, or mitigating highways and other transportation barriers. It can support both planning and capital construction.
 
 ## Elevator pitch
 > **Lid I‑5 North is a textbook reconnecting-communities project.**  
@@ -308,7 +308,7 @@ City capital participation is almost certainly necessary for:
 # 10. City / local source #2: Local Improvement District (LID)
 
 ## What it can plausibly pay for
-A Seattle LID could potentially fund a **portion** of lid costs if the project demonstrably confers special benefit on surrounding parcels. Seattle’s Waterfront LID shows the city is willing to use the tool for major public-realm investments when the benefit case is strong. citeturn0search0
+A Seattle LID could potentially fund a **portion** of lid costs if the project demonstrably confers special benefit on surrounding parcels. Seattle’s [Waterfront LID](https://seattle.gov/waterfront/about-the-waterfront/local-improvement-district) shows the city is willing to use the tool for major public-realm investments when the benefit case is strong.
 
 ## Elevator pitch
 > **The lid materially improves access, visibility, development potential, and property value for parcels near the cap. A benefit district is a fair way for specially benefited owners to contribute to the public improvement that unlocks that value.**
@@ -338,7 +338,7 @@ LID proceeds are unlikely to fund the whole project. This is a gap-closing tool,
 # 11. City / local source #3: Local Tax Increment Financing (TIF / LTIF)
 
 ## What it can plausibly pay for
-Washington’s TIF statute (chapter 39.114 RCW) allows local governments to establish increment areas and use tax allocation revenues for public improvement costs, subject to statutory requirements and limitations. The state treasurer reviews project analyses, and the Department of Revenue has published updates on the program, including 2026 legislative changes. citeturn0search1turn0search3turn0search11
+Washington’s TIF statute ([chapter 39.114 RCW](https://app.leg.wa.gov/RCW/default.aspx?cite=39.114)) allows local governments to establish increment areas and use tax allocation revenues for public improvement costs, subject to statutory requirements and limitations. The [Office of the State Treasurer](https://tre.wa.gov/financing-and-debt/other-programs/tax-increment-financing) reviews project analyses, and the [Department of Revenue](https://dor.wa.gov/forms-publications/publications-subject/special-notices/legislative-changes-local-tax-increment-financing-ltif) has published updates on the program, including 2026 legislative changes.
 
 If Seattle can lawfully structure an increment area around lid-related improvements and development parcels, TIF could help fund:
 - public improvements in the increment area
@@ -353,7 +353,7 @@ This tool is promising but easy to oversell.
 
 ### Why Washington is different
 - Washington’s TIF framework is newer and more constrained than classic redevelopment TIF in other states.
-- There are assessed-value limits and statutory conditions on increment areas. 2025/2026 legislative changes matter, and the rules are not “set it and forget it.” citeturn0search1turn0search11
+- There are assessed-value limits and statutory conditions on increment areas. [The 2025/2026 legislative changes](https://dor.wa.gov/forms-publications/publications-subject/special-notices/legislative-changes-local-tax-increment-financing-ltif) matter, and the rules are not “set it and forget it.”
 - Public improvements and timing must fit statutory requirements.
 - TIF may not be large enough, fast enough, or flexible enough to serve as the project’s sole backbone.
 
@@ -430,7 +430,7 @@ Philanthropy is most plausible for:
 - programming endowment
 - naming opportunities tied to public space
 
-Projects like **Klyde Warren Park** and **Presidio Tunnel Tops** show philanthropy can be substantial when the public-space vision is strong, even though the institutional contexts differ. Klyde Warren’s funding stack included a major private fundraising component, while Seattle’s own waterfront also paired public funding with philanthropy and a LID. citeturn0search0turn0search73
+Projects like [Klyde Warren Park](https://www.klydewarrenpark.org/our-story) and [Presidio Tunnel Tops](https://presidio.gov/presidio-tunnel-tops-donors) show philanthropy can be substantial when the public-space vision is strong, even though the institutional contexts differ. Klyde Warren’s funding stack included a major private fundraising component, while [Seattle’s own waterfront](https://seattle.gov/waterfront/about-the-waterfront/program-overview) also paired public funding with philanthropy and a LID.
 
 ## Elevator pitch
 > **This is a once-in-a-generation civic-repair project that creates new public space, reconnects neighborhoods, and gives Seattle a signature place for families, culture, and everyday life.**
@@ -750,3 +750,83 @@ The project should **not** chase a single silver bullet. It should build a disci
 Washington is harder than Texas or California because the legal tools are narrower and the interstate/state role is more constraining. That is not fatal. It just means the project needs to be more explicit about what each funding source is buying, and more disciplined about sequencing.
 
 The practical goal is not to “find the money.” It is to make the project **fundable** by turning a compelling vision into a package of components that different funders, agencies, and partners can each say yes to.
+
+---
+
+# Appendix A — Illustrative funding ranges for a $1 billion project
+
+This appendix translates the capital-stack strategy into planning-level dollar ranges. It assumes an **all-in project cost of approximately $1 billion in current dollars**. The ranges are deliberately wide and are not forecasts, commitments, or findings of financial feasibility.
+
+## A.1 Planning assumptions
+
+- The $1 billion figure includes the lid structure, associated public realm, development-enabling infrastructure, design and project development, and an appropriate construction contingency.
+- Cost escalation between today and the midpoint of construction is **not** included. If $1 billion is a present-day construction estimate rather than a fully escalated project budget, the nominal dollars ultimately appropriated or borrowed will need to be higher.
+- The ranges below are **not additive**. Their combined maximum is intentionally greater than $1 billion because the project should cultivate backup sources and negotiating leverage.
+- LID and TIF figures represent potential capital proceeds or project support derived from future assessments or tax allocation revenues. They are financing mechanisms, not free money, and debt-service coverage may reduce the amount available for construction.
+- Ground-lease and air-rights figures depend on how much development the structure can support, market conditions, lease terms, infrastructure obligations, and whether proceeds are received upfront or over time.
+- Commercial revenue should generally support operations and maintenance. Only a conservatively capitalized portion, if any, should be counted toward initial construction.
+
+## A.2 Potential funding envelopes by source
+
+| Funding source | Planning range | Share of $1B | Most plausible role |
+|---|---:|---:|---|
+| Federal reconnecting-communities, multimodal, safety, and related grants | **$250M–$500M** | **25%–50%** | Core lid structure, reconnection, multimodal access, planning, and barrier mitigation |
+| Washington State / WSDOT / legislative transportation funding | **$150M–$300M** | **15%–30%** | Interstate interface, structural work, safety, engineering, and state-local match |
+| City of Seattle and regional capital funding | **$75M–$200M** | **7.5%–20%** | Local match, parks, streets, utilities, public realm, and project development |
+| Local Improvement District assessments | **$50M–$150M** | **5%–15%** | Benefit-based contribution from nearby properties toward eligible public improvements |
+| Local Tax Increment Financing | **$25M–$100M** | **2.5%–10%** | Gap financing for eligible infrastructure supported by future property-tax increment |
+| Ground leases, air rights, and development proceeds | **$25M–$150M** | **2.5%–15%** | Development-enabling infrastructure or a contribution to the public capital program |
+| Philanthropic capital | **$25M–$100M** | **2.5%–10%** | Signature park, cultural, play, landscape, and community-serving elements |
+| Other grants, institutions, utilities, and negotiated contributions | **$10M–$75M** | **1%–7.5%** | Discrete environmental, utility, institutional, climate, or public-realm components |
+
+These envelopes suggest that the project should seek roughly **$600M–$800M from federal, state, and city/regional public sources**, with the remaining **$200M–$400M** assembled from local value capture, development proceeds, philanthropy, institutional participation, and other targeted sources.
+
+## A.3 Three illustrative $1 billion stacks
+
+The following examples show different ways the ranges could combine. Each totals exactly $1 billion, but none should be treated as the preferred or most likely outcome before engineering, legal, market, and benefit studies are complete.
+
+| Funding source | Public-led stack | Balanced stack | Local-value stack |
+|---|---:|---:|---:|
+| Federal grants | $400M | $325M | $250M |
+| State / WSDOT | $250M | $200M | $150M |
+| City / regional capital | $150M | $125M | $100M |
+| Local Improvement District | $75M | $100M | $150M |
+| Tax Increment Financing | $50M | $75M | $100M |
+| Ground leases / air rights | $40M | $100M | $150M |
+| Philanthropy | $25M | $50M | $75M |
+| Other grants and contributions | $10M | $25M | $25M |
+| **Total** | **$1.000B** | **$1.000B** | **$1.000B** |
+
+### Public-led stack
+
+This is the strongest fit with the project’s public-purpose framing. Federal and state sources provide 65% of the budget, while Seattle supplies meaningful match and local sources close the remaining gap. Its principal risk is dependence on several unusually large public appropriations or grant awards.
+
+### Balanced stack
+
+This distributes risk more evenly. Public sources still provide 65% when federal, state, and city funding are combined, but development value, assessments, tax increment, and philanthropy carry a larger share. It requires multiple workstreams to mature at roughly the same time.
+
+### Local-value stack
+
+This assumes lower federal and state participation and much stronger performance from the LID, TIF, development, and philanthropic strategies. It may offer greater local control, but it carries the greatest legal, market, debt-capacity, and political risk. It should be treated as a stress case rather than the base case.
+
+## A.4 Recommended working targets
+
+For early planning, the project should use the following targets:
+
+1. **Primary target:** secure **$450M–$650M** from federal and state sources combined.
+2. **Local public target:** assemble **$100M–$175M** from Seattle and regional capital sources, including required grant match.
+3. **Value-capture target:** test whether LID and TIF can responsibly support **$100M–$200M combined** after financing costs and statutory constraints.
+4. **Development target:** determine whether ground leases or air rights can provide **$50M–$125M in present-value capital support** without compromising the public program.
+5. **Philanthropic target:** build a campaign around **$40M–$80M** of visible, donor-ready public-space components.
+6. **Contingency target:** maintain at least **$100M–$200M of qualified backup opportunities** above the $1 billion need, because some applications, assessments, transactions, or appropriations will underperform or fail.
+
+## A.5 Decision rule
+
+The project should not advance into final design on the assumption that the most optimistic value-capture or development figures will materialize. A prudent funding plan would have:
+
+- credible pathways for at least **80% of the all-in capital need**;
+- identified backup sources for another **10%–20%**;
+- a separate, durable operating and lifecycle-maintenance plan; and
+- clear cost responsibility for overruns at the interstate interface.
+
+At the $1 billion scale, the key feasibility question is not whether eight sources can be listed. It is whether two or three anchor sources can credibly cover most of the project while the remaining tools close defined, legally eligible gaps.
