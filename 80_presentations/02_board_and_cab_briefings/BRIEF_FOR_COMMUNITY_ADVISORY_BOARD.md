@@ -46,4 +46,4 @@ The next phase should define the study corridor, identify feasible lid or crossi
 
 ## Elevator Pitch
 
-**Lid I-5 North keeps the freeway working for the region while reconnecting the neighborhoods above it. It turns a barrier between Wallingford and the University District into safer crossings, new public space, healthier streets, and a stronger community seam.**
+**Wallingford and the University District are close enough to be one connected community, but I-5 makes them feel far apart. Our vision is to turn that divide into a welcoming seam—with safer ways to walk, bike, and cross; new public spaces; and stronger connections among homes, businesses, schools, and transit. Covering parts of the freeway may be one tool, but the larger project is about reconnecting neighborhoods and creating a place that serves the community for generations.**
